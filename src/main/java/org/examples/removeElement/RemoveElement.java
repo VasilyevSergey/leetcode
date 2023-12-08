@@ -1,7 +1,5 @@
 package org.examples.removeElement;
 
-import static java.util.Arrays.sort;
-
 /**
  * Дан массив целых чисел nums и целое число val. Необходимо удалить все вхождения val в nums in-place (без создания
  * отдельной копии nums). Необходимо вернуть количество элементов массива чисел k, которые не равны val.
